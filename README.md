@@ -4,4 +4,4 @@
 
 Maar hulp van jouw kan ik altijd wel gebruiken..
 
-wijzideze fout= niet goed
+wijzig deze fout= nu goed
